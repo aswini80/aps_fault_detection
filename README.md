@@ -13,5 +13,9 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+<<<<<<< HEAD
 
 This is chnges made in neurolab....
+=======
+This file is changed by myself
+>>>>>>> 344a7c1078fa440c0a224f443a768ce8a75d9d4a
